@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/eb-admin/eb-admin.iml" filepath="$PROJECT_DIR$/eb-admin/eb-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eb-commons/eb-commons.iml" filepath="$PROJECT_DIR$/eb-commons/eb-commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eb-pojo/eb-pojo.iml" filepath="$PROJECT_DIR$/eb-pojo/eb-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ebuy-parent.iml" filepath="$PROJECT_DIR$/ebuy-parent.iml" />
+    </modules>
+  </component>
+</project>
