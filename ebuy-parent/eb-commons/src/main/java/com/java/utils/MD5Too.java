@@ -8,6 +8,7 @@ import java.util.Arrays;
  * description：MD5加密工具类
  * author：丁鹏
  * date：16:41
+ 王二麻子到此一游
  */
 public class MD5Too {
     //0~15
